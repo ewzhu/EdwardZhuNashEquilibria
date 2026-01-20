@@ -1,0 +1,11 @@
+# sh.txt
+
+# the number below indicates the number of choices,
+# which is helpful for file parsing
+2	
+
+# title of game
+Stag and Hare Game
+quiet		 3   3		0  2
+confess	  2  0		1   1
+
