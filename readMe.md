@@ -43,6 +43,11 @@ The payoff matrix for your game is: [[3, 3], [0, 2], [2, 0], [1, 1]]
 The name of your game is: Stag and Hare Game
 The strategies your players have are: ['quiet', 'confess']
 Your graphs will be displayed shortly:
+<img width="938" height="711" alt="image" src="https://github.com/user-attachments/assets/11f3c865-63c7-44ce-b683-d36fa4431e04" />
+<img width="942" height="798" alt="image" src="https://github.com/user-attachments/assets/01a868e0-3ed5-44b1-9e4d-170f840a4e8d" />
+<img width="946" height="811" alt="image" src="https://github.com/user-attachments/assets/0519f46b-ad4a-4621-893b-b49835ab1de4" />
+<img width="957" height="812" alt="image" src="https://github.com/user-attachments/assets/3be8bf61-6f71-4eca-8466-edecfe3451a3" />
+<img width="963" height="816" alt="image" src="https://github.com/user-attachments/assets/8f20cebf-94ea-412e-9c6e-2abc2f97c558" />
 
 User: python NashEquilibria.py battlesexes.txt
 Computer: 
@@ -51,6 +56,11 @@ The payoff matrix for your game is: [[3, 2], [0, 0], [0, 0], [2, 3]]
 The name of your game is: Battle of the Sexes
 The strategies your players have are: ['quiet', 'confess']
 Your graphs will be displayed shortly:
+<img width="947" height="816" alt="image" src="https://github.com/user-attachments/assets/e93684d1-4cbf-42c1-9648-232fd0aa4ce4" />
+<img width="958" height="770" alt="image" src="https://github.com/user-attachments/assets/e0ef4b5d-6826-4639-b718-c90850d589ef" />
+<img width="955" height="808" alt="image" src="https://github.com/user-attachments/assets/b3298744-386e-488d-8e1a-0ddd21884c68" />
+<img width="955" height="817" alt="image" src="https://github.com/user-attachments/assets/007596e1-9970-4860-b973-2ff751e45fff" />
+<img width="964" height="807" alt="image" src="https://github.com/user-attachments/assets/fd9ad0fd-ffc7-49e2-ae7f-f3cfa04764b6" />
 
 User: python NashEquilibria.py rps.txt
 Computer:
