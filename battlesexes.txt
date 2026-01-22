@@ -1,0 +1,11 @@
+# battlesexes.txt
+
+# the number below indicates the number of choices,
+# which is helpful for file parsing
+2	
+
+# title of game
+Battle of the Sexes
+quiet		 3   2		0   0
+confess	  0  0		2   3
+
